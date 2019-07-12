@@ -1,0 +1,18 @@
+[submodule "geo"]
+	path = geo
+	url = https://github.com/ros/geometry2.git
+[submodule "interactive_marker_twist_server"]
+	path = interactive_marker_twist_server
+	url = https://github.com/ros-visualization/interactive_marker_twist_server.git
+[submodule "pointcloud_to_laserscan"]
+	path = pointcloud_to_laserscan
+	url = https://github.com/ros-perception/pointcloud_to_laserscan.git
+[submodule "twist_mux"]
+	path = twist_mux
+	url = https://github.com/ros-teleop/twist_mux.git
+[submodule "husky"]
+	path = husky
+	url = https://github.com/boy7307979/husky.git
+[submodule "LMS1xx"]
+	path = LMS1xx
+	url = https://github.com/boy7307979/LMS1xx.git
